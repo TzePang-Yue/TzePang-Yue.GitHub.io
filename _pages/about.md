@@ -12,5 +12,5 @@ I'm a third year undergraduate student from [faculty of mathematics](https://www
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email: 3182224257@qq.com  / [Wechat](TzePang-Yue.github.io/wechat.jpg)
+Email: 3182224257@qq.com  / [Wechat](../images/wechat.jpg)
 
