@@ -24,7 +24,7 @@ Why I want to make a personal homepage?
 
 Professor [Hao Sun](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.htm) who taught me geometry in first semester influcend me, as well as I have been motivated by some outstanding homepage. Here I tend to share several homepages that impress me.
 
-[Professor YongQi-Liang, USTC](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.htm)
+[Professor YongQi-Liang, USTC](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)
 
 [Professor Ravi Vakil, Stanford University](https://math.stanford.edu/~vakil/potentialstudents.html)
 
