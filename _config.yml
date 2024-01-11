@@ -196,10 +196,6 @@ collections:
   CV:
     output: true
     permalink: /:collection/:path/
-  sharing:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -278,15 +274,6 @@ defaults:
   - scope:
       path: ""
       type: CV
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-   # _sharing
-  - scope:
-      path: ""
-      type: sharing
     values:
       layout: single
       author_profile: true
