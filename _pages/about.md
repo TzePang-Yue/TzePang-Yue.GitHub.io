@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [faculty of mathematics](https://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/). Because of limited knowledge, I haven't found my research interest. This blog aims to document my experience and thought in my journey of learning mathematics.
+I'm a first year undergraduate student from [faculty of mathematics](https://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/). Because of limited knowledge, I haven't found my research interest. This blog aims to document my experience and thought in my journey of learning mathematics.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
