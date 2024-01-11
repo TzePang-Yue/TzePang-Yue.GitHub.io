@@ -26,4 +26,6 @@ Professor [Hao Sun](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.h
 
 [Professor YongQi-Liang, USTC](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.htm)
 
-[professor Ravi Vakil, Stanford University](https://math.stanford.edu/~vakil/potentialstudents.html)
+[Professor Ravi Vakil, Stanford University](https://math.stanford.edu/~vakil/potentialstudents.html)
+
+[Hao Sun](https://haosun71275.github.io/HaoSun/)
