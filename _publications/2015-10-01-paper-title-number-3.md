@@ -10,5 +10,3 @@ citation: 'Zipeng-Yue, . (2023). &quot;巴塞尔问题的研究.'
 ---
 第一学期孙浩教授任课的现代代数与几何课程结课报告
 [pi26](../assets/pi26HaoSun.pdf)
-
-Recommended citation: Zipeng-Yue. (2023). "巴塞尔问题的研究" <i>.
