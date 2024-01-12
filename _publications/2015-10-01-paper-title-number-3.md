@@ -8,4 +8,5 @@ venue: 'SCUT'
 
 ---
 第一学期孙浩教授任课的现代代数与几何课程结课报告
+
 [pi26](../assets/pi26HaoSun.pdf)
