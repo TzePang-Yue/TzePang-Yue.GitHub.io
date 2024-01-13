@@ -22,7 +22,7 @@ Email: 3182224257@qq.com  / [Wechat](../images/wechat.jpg)
 
 Why I want to make a personal homepage?
 
-Professor [Hao Sun](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.htm) who taught me geometry in first semester influced me, as well as I have been motivated by some outstanding homepage. Here I tend to share several homepages as well as articles about mathematics that impress me.
+Professor [Hao Sun](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.htm) who taught me geometry in first semester influnced me, as well as I have been motivated by some outstanding homepage. Here I tend to share several homepages as well as articles about mathematics that impress me.
 
 [Professor YongQi-Liang, USTC](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)
 
