@@ -29,3 +29,5 @@ Professor [Hao Sun](https://www2.scut.edu.cn/math/2018/0316/c14638a440127/page.h
 [Professor Ravi Vakil, Stanford University](https://math.stanford.edu/~vakil/potentialstudents.html)
 
 [Prosessor Hao Sun, SCUT](https://haosun71275.github.io/HaoSun/)
+
+[What kind of work can mathematics students do when they graduate, PKU](../assets/2023.01.13.pdf)
