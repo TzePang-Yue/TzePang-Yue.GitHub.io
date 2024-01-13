@@ -10,5 +10,5 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 黄昱燊 王达文 余梓鹏
 
-[Download paper here](../assets/APMCM.pdf)
+[新能源汽车在中国发展趋势研究](../assets/APMCM.pdf)
 
