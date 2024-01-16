@@ -3,7 +3,7 @@ title: "高等代数丘维声版笔记"
 collection: teaching
 type: "Undergraduate course"
 permalink: /notes/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: ""
 date: 2024-01-16
 location: "Guangzhou, China"
 ---
