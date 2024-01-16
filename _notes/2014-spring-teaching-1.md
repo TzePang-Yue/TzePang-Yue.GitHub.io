@@ -12,4 +12,6 @@ location: "Guangzhou, China"
 
 
 
-[note](../assets/qiuweisheng.pdf)
+[第一部分](../assets/qiuweisheng_1-59.pdf)
+[第二部分](../assets/qiuweisheng_60-118.pdf)
+
