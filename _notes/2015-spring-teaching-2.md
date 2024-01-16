@@ -10,3 +10,4 @@ location: "Guangzhou, China"
 
 第一学期学期GlibertStrang的Introduction to Linear Algebra课程的笔记
 
+[note](../assets/LinearAlgebraMIT.pdf)
