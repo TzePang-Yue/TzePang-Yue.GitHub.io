@@ -10,6 +10,16 @@ location: "Guangzhou, China"
 
 2023-2023大一在大学城校区组织的“形象代数”讨论班的一些资料
 
+[拓扑简介](../assets/topology.pdf)
+
+[可分性](../assets/Lec04.pdf)
+
+[环论基本概念](../assets/ringTheory.pdf)
+
+[素理想与极大理想](../assets/ideal.pdf)
+
+
+
 Heading 1
 ======
 
