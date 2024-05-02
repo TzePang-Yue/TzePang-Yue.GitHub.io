@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "2023-2024“形象代数”讨论班"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2023-11-04
+location: "Guangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2023-2023大一在大学城校区组织的“形象代数”讨论班的一些资料
 
 Heading 1
 ======
