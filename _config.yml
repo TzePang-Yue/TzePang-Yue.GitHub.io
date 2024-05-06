@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TzePang-Yue's homepage"
+title                    : "Tze-pangYue's homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
